@@ -1,40 +1,16 @@
-# FURP Project Repository
-
-> **Faculty Undergraduate Research Practice (FURP)**
-> Undergraduate Research Group · Faculty of Science and Engineering · University of Nottingham Ningbo China
-
-This is your project home for the FURP programme. **Fork this template**, rename your repo, fill in the content each week, and share it with us (or make it public) so we can follow your progress and review your weekly work.
-
----
-
-## Getting started (do this in Week 1)
-
-1. **Fork / use this template** to create your own repository.
-2. **Rename your repo** following the naming convention:
-   ```
-   FURP-2025/YourName-ProjectTag
-   # e.g. furp-2025/Jason-ROSBootcamp
-   ```
-3. **Give us access:** either make the repo **public**, or **share it** with the research group accounts (ask your project lead for the usernames to add as collaborators).
-4. **Fill in this README** — replace the placeholders in the *Project Info* section below.
-5. **Start your weekly log** in [`docs/00_weekly.md`](docs/00_weekly.md).
-
----
-
 ## Project Info — *fill this in*
 
 | Field | Your entry |
 |---|---|
-| Student name(s) | _e.g. Jason Zhang_ |
-| Project title | _..._ |
-| Project tag | _e.g. ROSBootcamp_ |
+| Student name(s) | Yuxin Yang|
+| Project title | Coordinated Control for a Mobile Dual-Arm Robot on a Steering-Wheel Chassis |
 | Track | Research |
-| Supervising faculty | _..._ |
-| Project lead | _..._ |
-| Team or individual | _..._ |
+| Supervising faculty | FoSE |
+| Project lead | Fuhua Jia |
+| Team or individual | individual |
 | Cited paper being replicated | _title + link/DOI_ |
 
-**One-line summary:** _What is your project about? (1–2 sentences)_
+**One-line summary:** This project studies coordinated whole-body control for a mobile dual-arm manipulator on a steering-wheel chassis. The implementation path starts from ROS 2 and MoveIt fundamentals, then advances to QP-based optimization with reinforcement-learning augmentation.
 
 ---
 
@@ -93,17 +69,4 @@ Any **leave of absence** or **withdrawal** must be notified to us **by email** �
 
 > No email = no record. Always put leave and withdrawal in writing.
 
----
 
-## Quick checklist
-
-- [ ] Forked the template and renamed the repo (`FURP-2025/YourName-ProjectTag`)
-- [ ] Made the repo public **or** shared it with the research group
-- [ ] Filled in the *Project Info* table above
-- [ ] Started `docs/00_weekly.md`
-- [ ] Created my first file in `docs/meeting_notes/`
-- [ ] (By Showcase) Added `FURP_Showcase.pdf` to the repo root
-
----
-
-*Bridging the gap between classroom knowledge and cutting-edge research.*
